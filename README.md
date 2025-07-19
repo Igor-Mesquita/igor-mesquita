@@ -33,4 +33,3 @@
 - 🔭 I am currently looking for my first opportunity as a professional developer.
   
 - 🌱 I’m currently learning Node.js and React.js
-- 👨‍🎓 I am studying computer science at anhembi morumbi university
